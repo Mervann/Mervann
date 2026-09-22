@@ -28,10 +28,12 @@
 
 | Repository | Tech Stack | Description |
 | :--- | :--- | :--- |
-| 🚗 **[car-classifier-project](https://github.com/Mervann/car-classifier-project)** | Python, PyTorch, OpenCV | Computer Vision model & application for automated car classification. |
-| 📰 **[kocaeli-haber-projesi](https://github.com/Mervann/kocaeli-haber-projesi)** | Python, BeautifulSoup, Cloudscraper | Automated news scraping, aggregation, and web portal system. |
-| 📚 **[social-library-platform](https://github.com/Mervann/social-library-platform)** | React 19, Node.js, SQLite, Tailwind | Social platform for book/movie discovery with a Netflix-style UI. |
-| 🎓 **[akademiprojesi](https://github.com/Mervann/akademiprojesi)** | Next.js, React, TypeScript | Comprehensive educational academy portal and learning system. |
+| 🔤 **[kelime-oyunu](https://github.com/Mervann/kelime-oyunu)** | Flutter, Dart, Supabase | Cross-platform word search & learning game powered by Trie lookup engine and Supabase backend. |
+| 📦 **[cargo-tracking](https://github.com/Mervann/cargo-tracking)** | Django REST, React, Tailwind | Full-stack cargo tracking & logistics management portal with role-based admin controls. |
+| 📅 **[exam-schedule-seating-generator](https://github.com/Mervann/exam-schedule-seating-generator)** | Python, PyQt5, SQLAlchemy | Automated exam schedule planner and 2D/3D seating matrix allocation system. |
+| 🚗 **[car-classifier-project](https://github.com/Mervann/car-classifier-project)** | Python, PyTorch, OpenCV | Computer Vision model & web application for automated car classification. |
+| 📰 **[kocaeli-haber-projesi](https://github.com/Mervann/kocaeli-haber-projesi)** | Python, BeautifulSoup | Automated local news scraping, aggregation, and publishing platform. |
+| 📚 **[social-library-platform](https://github.com/Mervann/social-library-platform)** | React, Node.js, Tailwind | Social platform for book/movie discovery with interactive UI. |
 
 ---
 
@@ -40,6 +42,7 @@
 <p align="center">
   <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
@@ -48,11 +51,14 @@
 
 <p align="center">
   <!-- Frameworks, Libraries & Tools -->
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
